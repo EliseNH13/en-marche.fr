@@ -1,0 +1,13 @@
+# videoIcon: affiche-t-on l'icône vidéo sur l'image de la home ?
+# link: lien du block
+# image: image de l'article sur la home
+
+block1:
+    videoIcon: false
+    link: "link1"
+    image: "image1"
+
+block2:
+    videoIcon: true
+    link: "link2"
+    image: "image2"
